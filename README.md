@@ -17,7 +17,7 @@ esp32购买链接：https://item.taobao.com/item.htm?spm=a230r.1.14.24.3afa64ac0
 
 具体环境配置参考
 
-视频：https://www.bilibili.com/video/BV1tv411w74d
+视频：https://www.bilibili.com/video/bv14b4y1Y7Rc
 
 然后打开我上传的工程即可
 
