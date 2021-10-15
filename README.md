@@ -18,3 +18,6 @@
 视频：https://www.bilibili.com/video/BV1tv411w74d
 
 然后打开我上传的工程即可
+
+# 如何连接
+esp32和stc89c52通过串口连接即可
