@@ -1,5 +1,5 @@
 # Desktop_assistant
-#桌面助手
+# 桌面助手
 第一页：bilibili粉丝显示
 
 第二页：IP地址显示
@@ -8,10 +8,10 @@
 
 通过上下晃动来更换页面
 
-#51对0.96oled+mpu6050的驱动
+# 51对0.96oled+mpu6050的驱动
 使用的是keil_v5软件编程
 
-#对esp32的编程使用的vscode
+# 对esp32的编程使用的vscode
 
 具体环境配置参考
 
